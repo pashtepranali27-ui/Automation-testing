@@ -12,22 +12,22 @@
                  It is intentional absence of any value.
 */
 
-//  var x;
-//  console.log(x);
-//  console.log(typeof x);
+ var x;
+ console.log(x);
+ console.log(typeof x);
 
-//   var audi = null;
-// console.log(audi)
-// console.log(typeof audi); // object
+  var audi = null;
+console.log(audi)
+console.log(typeof audi); // object
  
-// let b = null;
-// console.log(b);
-// console.log(typeof b); // object
+let b = null;
+console.log(b);
+console.log(typeof b); // object
 
 // -----------------------2. undefined ---------------------------                        
-// let c;
-// console.log(c);
-// console.log(typeof c); // undefined
+let c;
+console.log(c);
+console.log(typeof c); // undefined
 
 let x;
 x=10;

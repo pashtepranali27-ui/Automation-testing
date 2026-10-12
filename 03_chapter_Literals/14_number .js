@@ -16,7 +16,7 @@ console.log("Type of decimal:", typeof decimal); // number
 
 // Binary (Base 2) - starts with 0b or 0B
 let binary = 0b1010; // 10 in decimal
-console.log("Binary 0b1010:", binary); // 10
+console.log("Binary 0b1010:", binary); // 10..rapidtable.com
 
 // Octal (Base 8) - starts with 0o or 0O
 let octal = 0o52; // 42 in decimal
