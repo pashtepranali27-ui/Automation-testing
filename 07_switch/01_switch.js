@@ -2,7 +2,7 @@ let day = 2;
 //. day 1 - mon, 2 tue...
 
 
-switch(day= 4){
+switch(day){
 
     case 1:
         console.log("monday");

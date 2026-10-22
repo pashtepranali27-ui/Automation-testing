@@ -2,20 +2,31 @@
   "name": "automation-testing",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {},
+  "keywords": [],
+  "homepage": "https://github.com/pashtepranali27-ui/Automation-testing#readme",
+  "bugs": {
+    "url": "https://github.com/pashtepranali27-ui/Automation-testing/issues"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/pashtepranali27-ui/Automation-testing.git"
   },
-  "keywords": [],
-  "author": "",
   "license": "ISC",
+  "author": "",
   "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/pashtepranali27-ui/Automation-testing/issues"
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
   },
-  "homepage": "https://github.com/pashtepranali27-ui/Automation-testing#readme",
+  "scripts": {},
+  "dependencies": {
+    "ansi-regex": "^4.1.1",
+    "playwright": "^1.63.0",
+    "playwright-core": "^1.63.0",
+    "prompt-sync": "^4.2.0",
+    "strip-ansi": "^5.2.0",
+    "undici-types": "^8.9.0"
+  },
   "devDependencies": {
     "@playwright/test": "^1.63.0",
     "@types/node": "^26.6.4"
